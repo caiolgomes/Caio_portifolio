@@ -9,3 +9,10 @@ More than identifying a pattern, it is expected to make future predictions in re
 ![](/images/fig_breed.svg)
 
 ![](images/model1_fig.svg)
+
+
+#[Project 2:Classifying clothes using deep learning](https://github.com/caiolgomes/Caio_portifolio/blob/main/Clothes_classification_with_CNN.ipynb)
+
+* In this Project i'll be using a well known Dataset for deep learning with 70000 clothes images to make a convolutional neural network and classify them corectly, for this i've used the google tool TensorFlow
+
+![](images/fig_history.svg)
