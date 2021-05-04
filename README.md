@@ -15,4 +15,4 @@ personal projects
 
 * In this Project i'll be using a well known Dataset for deep learning with 70000 clothes images to make a convolutional neural network and classify them corectly, for this i've used the google tool TensorFlow
 
-![](images/fig_history (2).svg)
+![](images/fig_history_.svg)
